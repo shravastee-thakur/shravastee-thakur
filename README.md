@@ -6,7 +6,14 @@ I’m currently a second year Electrical Engineering student.</br>
 I’m currently learning JavaScript and Bootstrap</br>
 I love connecting with people.
 
-
+<div id="badges">
+    <a href="www.linkedin.com/in/shravastee-thakur-618589218">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn Badge"
+      />
+    </a>
+  </div>
 
       
 
