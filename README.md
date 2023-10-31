@@ -1,15 +1,12 @@
-### Hi I'm Shravastee Thakur
+### Hi! I'm Shravastee Thakur
 
 
-Pronouns: She / Her</br>
+<hr>
 I’m currently a second year Electrical Engineering student.</br>
 I’m currently learning Front-End Development</br>
 I love connecting with people.
 
-
-
-      
-
+ <hr>  
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
@@ -64,6 +61,11 @@ I love connecting with people.
     />&nbsp; -->
    
   </div>
+  <hr>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravastee-thakur&show_icons=true&locale=en&layout=compact" alt="shravastee-thakur" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravastee-thakur&show_icons=true&locale=en" alt="shravastee-thakur" /></p>
     
    
  
