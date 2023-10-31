@@ -15,8 +15,7 @@ I love connecting with people.
       />
       </a>
       </div>
-      <div id="badges">
-      <img src="https://komarev.com/ghpvc/?username=shravastee-thakur&style=flat-square&color=blue" alt=""/>
+      
       
 
 
