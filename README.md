@@ -3,17 +3,10 @@
 
 Pronouns: She / Her</br>
 I’m currently a second year Electrical Engineering student.</br>
-I’m currently learning JavaScript and Bootstrap</br>
+I’m currently learning Front-End Development</br>
 I love connecting with people.
 
-<div id="badges">
-    <a href="www.linkedin.com/in/shravastee-thakur-618589218">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn Badge"
-      />
-    </a>
-  </div>
+
 
       
 
@@ -48,6 +41,27 @@ I love connecting with people.
       width="40"
       height="40"
     />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+      title="Python"
+      alt="Python"
+      width="40"
+      height="40"
+    />&nbsp;
+<!--     <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      title="TailwindCSS"
+      alt="TailwindCSS"
+      width="40"
+      height="40"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+      title="React"
+      alt="React"
+      width="40"
+      height="40"
+    />&nbsp; -->
    
   </div>
     
