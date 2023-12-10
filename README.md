@@ -31,13 +31,13 @@ I love connecting with people.
       width="40"
       height="40"
     />&nbsp;
-    <img
+<!--     <img
       src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
       title="Bootstrap"
       alt="Bootstrap"
       width="40"
       height="40"
-    />&nbsp;
+    />&nbsp; -->
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       title="Python"
@@ -45,14 +45,14 @@ I love connecting with people.
       width="40"
       height="40"
     />&nbsp;
-<!--     <img
+ <img
       src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
       title="TailwindCSS"
       alt="TailwindCSS"
       width="40"
       height="40"
     />&nbsp;
-    <img
+<!--     <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
       title="React"
       alt="React"
