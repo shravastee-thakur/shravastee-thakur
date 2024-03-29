@@ -2,7 +2,7 @@
 <!-- <hr/> -->
 
 ### A passionate frontend developer from India.
-<br>I’m currently learning MongoDB.<br>I'm currently a second-year student studying Electrical Engineering.<br>I love to connect with people.
+<br>I’m currently learning React.<br>I'm currently a second-year student studying Electrical Engineering.<br>I love to connect with people.
 
 
 # 💻 Tech Stack:
