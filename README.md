@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Shravastee Thakur</h1>
 <!-- <hr/> -->
 
-### A passionate frontend developer from India.
+### A passionate MERN developer from India.
 <br>I’m currently learning Backend.<br>I'm currently a third-year student studying Electrical Engineering.<br>I love to connect with people.
 
 
