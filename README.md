@@ -2,7 +2,7 @@
 <!-- <hr/> -->
 
 ### A passionate MERN developer from India.
-<br>I’m currently learning Backend.<br>I'm currently a third-year student studying Electrical Engineering.<br>I love to connect with people.
+<br>I’m currently learning Backend.<br>I'm currently a fourth-year student studying Electrical Engineering.<br>I love to connect with people.
 
 
 
