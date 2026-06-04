@@ -32,9 +32,18 @@
 
    
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shravastee-thakur&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/shravastee-thakur">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shravastee-thakur&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shravastee-thakur&theme=apprentice" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shravastee-thakur&theme=apprentice" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shravastee-thakur&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravastee-thakur&theme=tokyonight" height="180em" />
+</div>
+<!--![](https://github-readme-stats.shion.dev/api?username=shravastee-thakur&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shravastee-thakur&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shravastee-thakur&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shravastee-thakur&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) Theme : Tokyonight -->
    <!--https://marwin1991.github.io/profile-technology-icons/ -->
