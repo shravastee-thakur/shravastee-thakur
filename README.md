@@ -32,9 +32,9 @@
 
    
 # 📊 GitHub Stats:
-<div> <a href="https://github.com/shravastee-thakur" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shravastee-thakur&theme=sunset-gradient"  /></p>
+
+<div align="center">
+	<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shravastee-thakur&theme=sunset-gradient"  /></p></div>
 
 <div align="center">
 <a href="https://github.com/shravastee-thakur">
