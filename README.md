@@ -1,8 +1,9 @@
 <h1 align="left">Hi, I'm Shravastee Thakur</h1>
 <!-- <hr/> -->
 
-### Backend focused MERN developer from India.
-<br>B.E. Electrical Engineering graduate turned self-taught Software Developer.<br>Building secure, scalable, and maintainable backend architectures.<br>Developing end-to-end projects that implement industry-standard security protocols.
+### Backend Developer - MERN from India.
+<br> - B.E. Electrical Engineering graduate turned self-taught Software Developer.<br>- Building secure, scalable, and maintainable backend architectures.<br>- Developing end-to-end projects that implement industry-standard security protocols.
+<br> - Learning AWS
 
 
 
@@ -26,6 +27,7 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 </div>
 
 	
@@ -49,6 +51,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) Theme : Tokyonight -->
    <!--https://marwin1991.github.io/profile-technology-icons/ -->
+   <!-- https://git-readme-generator.vercel.app/profile  - For stats charts-->
    
  
 
