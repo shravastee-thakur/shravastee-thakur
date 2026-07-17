@@ -3,7 +3,7 @@
 
 ### Backend Developer - MERN - from India.
 <br> - B.E. Electrical Engineering graduate turned self-taught Software Developer.<br>- Building secure, scalable, and maintainable backend architectures.<br>- Developing end-to-end projects that implement industry-standard security protocols.
-<br> - Learning AWS
+<br> - Learning Jest
 
 
 
