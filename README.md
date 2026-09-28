@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Shravastee Thakur</h1>
 <!-- <hr/> -->
 
-### Backend Developer - MERN / PERN - from India.
+### Backend Developer in MERN / PERN stack, building secure and scalable applications.
 <br> - B.E. Electrical Engineering graduate turned self-taught Software Developer.<br>- Building secure, scalable, and maintainable backend architectures.<br>- Developing end-to-end projects that implement industry-standard security protocols.
-<br> - Learning LangChain and RAG.
+<br> - Learning LangChain and RAG. <br> - Open to Software Developer opportunities.
 
 
 
